@@ -1,2 +1,2 @@
 # Yongzhe-Huapp
-huyongzhe.com，app源码
+http://huyongzhe.com/，app源码
